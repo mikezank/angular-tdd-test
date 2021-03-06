@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-tdd-eduonix-7e87d": {
+      "hosting": {
+        "angular-testing": [
+          "angular-tdd-eduonix-7e87d"
+        ]
+      }
+    }
+  }
+}
